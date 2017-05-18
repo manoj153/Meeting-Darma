@@ -1,0 +1,8 @@
+
+Today's Agenda.
+################
+
+1. Bluemix Pricing 
+2. Server Basics (AWS/Google Cloud Concept)
+3. Task for Siemens IoT projects 
+4. Advanced PhD analytics (Camera Data + Access Control Relation)
